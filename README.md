@@ -1,4 +1,4 @@
-# personal static site - Nginx + Docker + Nginx
+# personal static site - Docker + Nginx + Ubuntu
 
 My personal website, built with Nginx on Ubuntu and containerized using Docker.
 All configurations — including installation, server block setup, non-root user, and healthcheck /
